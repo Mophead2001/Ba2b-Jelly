@@ -1,0 +1,8 @@
+,Rarity_Score,Species_Name,Static_Mesh,_Material
+Fish_001,100,Common Trout,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material'
+Fish_002,150,Striped Bream,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material'
+Eel_001,125,Common Eel,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material'
+Eel_002,180,Fanged Moray,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material'
+Otter_001,240,Cold Water Otter,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material'
+Seal_001,340,Common Seal,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material'
+Crab_001,120,Rock Crab,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material'
