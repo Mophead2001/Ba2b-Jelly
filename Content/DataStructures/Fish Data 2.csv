@@ -1,0 +1,11 @@
+,Rarity_Score,Species_Name,Static_Mesh,Mesh_Material,Is_Photographed,Render_Photo,Unseen_Entry,Discovered_Entry
+KF_Urchin,50,Red Urchin,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,"Small, found around sea floor",Small bottom-feeding and docile. Protects itself from predation by local otters with its many sharp spines
+KF_BatRay,150,Shrimp,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,"Small, travels in groups in dense foliage","Small scavengers, feed off of scraps found in and around the sea floor. Takes shelter in dense foliage to avoid predation"
+KF_Otter,125,Otter,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,"Medium sized, agile, found near areas with high urchin population","Their lean, smooth bodies allow for fast and deft movement between kelp growths. Independent by nature, but are innately curious and mate for life"
+KF_Shrimp,180,Flat Ray,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,"Large and slow, found in clearings","Due to their size, rays see very little threat from predators. Which explains their almost comically relaxed nature."
+KF_Octopus,240,Octopus,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,"Rare, well camoflaged, and highly intelligent","Shy and well camoflaged, very few individuals have ever been seen. Reports frequently indicate cognitive abilities almost comparable to our own. "
+CS_001,0,Shallows1,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,0,0
+CS_002,0,Shallows2,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,0,0
+CS_003,0,Shallows3,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,0,0
+CS_004,0,Shallows4,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,0,0
+CS_005,0,Shallows5,StaticMesh'/Game/Assets/Models/Rock_5.Rock_5',Material'/Game/Materials/Material.Material',FALSE,,0,0
