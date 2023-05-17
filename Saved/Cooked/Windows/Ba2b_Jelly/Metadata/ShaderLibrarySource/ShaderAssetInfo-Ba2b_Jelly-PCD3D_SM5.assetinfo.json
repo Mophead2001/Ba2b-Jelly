@@ -83,7 +83,9 @@
 		{
 			"ShaderMapHash": "F64C5788D85ADF654FD16AEBA3E30101B7CE760D",
 			"Assets": [
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_SceneryObjects",
 				"/Game/Materials/SurfaceMaterial/NewMaterial",
+				"/Game/Materials/SurfaceMaterial/M_SceneryObjects",
 				"/Game/Materials/SurfaceMaterial/M_Noise",
 				"/Game/Materials/PostProcessing/M_PP_EdgeDetector"
 			]
@@ -168,12 +170,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -183,6 +179,12 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -259,30 +261,37 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8627C98EB5AF203AA39755ADC798112B1E70734F",
+			"Assets": [
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_Urchin",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_Shrimp"
+			]
+		},
+		{
 			"ShaderMapHash": "98606335C49F39DD7B48D75A332C3AE9146FD8BD",
 			"Assets": [
-				"/Game/Materials/SurfaceMaterial/M_SmallCandyCane",
-				"/Game/Materials/SurfaceMaterial/M_Lollipop",
-				"/Game/Materials/SurfaceMaterial/M_LargePocky",
-				"/Game/Materials/SurfaceMaterial/M_CoralClump2"
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_SmallCandyCane",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_Lollipop",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_LargePocky",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_CoralClump2"
 			]
 		},
 		{
 			"ShaderMapHash": "F9FD1640FC4A0290C7CFC09235C5BA8413407626",
 			"Assets": [
-				"/Game/Materials/SurfaceMaterial/M_SmallPocky",
-				"/Game/Materials/SurfaceMaterial/M_Skull",
-				"/Game/Materials/SurfaceMaterial/M_PlatformCoral",
-				"/Game/Materials/SurfaceMaterial/M_Pebble",
-				"/Game/Materials/SurfaceMaterial/M_MediumPocky",
-				"/Game/Materials/SurfaceMaterial/M_CoralClump",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_SmallPocky",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_Skull",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_PlatformCoral",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_Pebble",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_MediumPocky",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_CoralClump",
 				"/Game/Materials/SurfaceMaterial/M_BCandyCane"
 			]
 		},
 		{
 			"ShaderMapHash": "55E28DF30249E75CFAFA948A2C31269898B98FC9",
 			"Assets": [
-				"/Game/Materials/SurfaceMaterial/M_JellyStarfish"
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_JellyStarfish"
 			]
 		},
 		{
@@ -301,6 +310,19 @@
 			"ShaderMapHash": "4D16F977B1607A0544AE09722DD3417BC15D6494",
 			"Assets": [
 				"/Game/Materials/SurfaceMaterial/M_Eugene"
+			]
+		},
+		{
+			"ShaderMapHash": "9714C2FA8121741D7DB52F7D7DFB36868D74E007",
+			"Assets": [
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_otter",
+				"/Game/Materials/SurfaceMaterial/SceneObjects/M_CrepeRay"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Materials/SurfaceMaterial/M_Rock"
 			]
 		},
 		{
@@ -397,27 +419,27 @@
 			"ShaderMapHash": "5508B9AACDC27F97A9BDB889F84ECEAD73BCAAF6",
 			"Assets": [
 				"/Game/JellyDiverTestingRoom",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y0_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y1_DL0",
 				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-2_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-2_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y-1_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0",
 				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-2_DL0",
 				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y0_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y0_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-2_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y-1_DL0",
 				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y-2_DL0",
-				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0"
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0",
+				"/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0"
 			]
 		},
 		{

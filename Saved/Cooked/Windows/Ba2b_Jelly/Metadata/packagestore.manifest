@@ -561,20 +561,20 @@
 			"ChunkId": "f87a01e7b138538a00000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_SceneryObjects.uasset",
+			"ChunkId": "85e3b006bf56b4ef00000001"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/NewMaterial.uasset",
 			"ChunkId": "108032a7496e76ce00000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_SceneryObjects.uasset",
+			"ChunkId": "717b609e2747feea00000001"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_Noise.uasset",
 			"ChunkId": "b6385f361afab3be00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/Illustration.uasset",
-			"ChunkId": "4e308194d6082a0700000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/Illustration.ubulk",
-			"ChunkId": "4e308194d6082a0700000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/PostProcessing/M_PP_GaussianBlur.uasset",
@@ -583,14 +583,6 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/PostProcessing/M_PP_EdgeDetector.uasset",
 			"ChunkId": "467d6e6cfe7bbe9600000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Materials/PostProcessing/M_PP_CelShading.uasset",
-			"ChunkId": "52ad6db79c2b1df700000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Materials/MFunctions/MF_Two-Octave-Waves.uasset",
-			"ChunkId": "76d8ce7299ad5c2500000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
@@ -615,6 +607,14 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/Sharp_Text.ubulk",
 			"ChunkId": "39ddeba29b0f2ed200000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/PostProcessing/M_PP_CelShading.uasset",
+			"ChunkId": "52ad6db79c2b1df700000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/MFunctions/MF_Two-Octave-Waves.uasset",
+			"ChunkId": "76d8ce7299ad5c2500000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/MFunctions/MF_ThicknessModulation.uasset",
@@ -673,6 +673,14 @@
 			"ChunkId": "e5475eeecb7a15b100000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/Illustration.uasset",
+			"ChunkId": "4e308194d6082a0700000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/Illustration.ubulk",
+			"ChunkId": "4e308194d6082a0700000002"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/LevelTools/DataCurves/FC_RadiusAdjustment_001.uasset",
 			"ChunkId": "1a34ab8e3b92c57c00000001"
 		},
@@ -693,36 +701,20 @@
 			"ChunkId": "f2c2b36ad7ae854200000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Metallic.uasset",
-			"ChunkId": "7da7512f189ce33100000001"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Metallic.uasset",
+			"ChunkId": "a13897a2aba5184700000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Metallic.ubulk",
-			"ChunkId": "7da7512f189ce33100000002"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Metallic.ubulk",
+			"ChunkId": "a13897a2aba5184700000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/LargePocky/initialShadingGroup-Roughness.uasset",
-			"ChunkId": "7787b8b0f8e7781000000001"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Colour.uasset",
+			"ChunkId": "455b909103c4f83000000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/LargePocky/initialShadingGroup-Roughness.ubulk",
-			"ChunkId": "7787b8b0f8e7781000000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Colour.uasset",
-			"ChunkId": "2ebbbe892bb231a100000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Colour.ubulk",
-			"ChunkId": "2ebbbe892bb231a100000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_normal.uasset",
-			"ChunkId": "969db7065a80afee00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_normal.ubulk",
-			"ChunkId": "969db7065a80afee00000002"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Colour.ubulk",
+			"ChunkId": "455b909103c4f83000000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/W_Coral_Platform/WCoralPlatform_initialShadingGroup-Roughness.uasset",
@@ -747,6 +739,22 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/W_Coral_Platform/WCoralPlatform_initialShadingGroup-Colour.ubulk",
 			"ChunkId": "f58a6caa82873ae800000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Urchin/Urchin_Low_Poly_initialShadingGroup_Normal.uasset",
+			"ChunkId": "7ac51e45895663bb00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Urchin/Urchin_Low_Poly_initialShadingGroup_Normal.ubulk",
+			"ChunkId": "7ac51e45895663bb00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Urchin/Urchin_Low_Poly_initialShadingGroup_BaseColor__1_.uasset",
+			"ChunkId": "3bb3e90e17cd4a4e00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Urchin/Urchin_Low_Poly_initialShadingGroup_BaseColor__1_.ubulk",
+			"ChunkId": "3bb3e90e17cd4a4e00000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Small_Candy_Cane/initialShadingGroup-Roughness.uasset",
@@ -781,22 +789,6 @@
 			"ChunkId": "f2c3117e452ec15500000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Metallic.uasset",
-			"ChunkId": "a13897a2aba5184700000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Metallic.ubulk",
-			"ChunkId": "a13897a2aba5184700000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Colour.uasset",
-			"ChunkId": "455b909103c4f83000000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SmallPocky/initialShadingGroup-Colour.ubulk",
-			"ChunkId": "455b909103c4f83000000002"
-		},
-		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Roughness.uasset",
 			"ChunkId": "6678ef7d2eb16cfb00000001"
 		},
@@ -813,20 +805,28 @@
 			"ChunkId": "b018d500adbc64d300000002"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Colour.uasset",
+			"ChunkId": "2ebbbe892bb231a100000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Colour.ubulk",
+			"ChunkId": "2ebbbe892bb231a100000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_normal.uasset",
+			"ChunkId": "969db7065a80afee00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_normal.ubulk",
+			"ChunkId": "969db7065a80afee00000002"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_height.uasset",
 			"ChunkId": "6eb8abcb26e143f100000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_height.ubulk",
 			"ChunkId": "6eb8abcb26e143f100000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_basecolor.uasset",
-			"ChunkId": "bd003b7fe49d4ef300000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_basecolor.ubulk",
-			"ChunkId": "bd003b7fe49d4ef300000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_ambientocclusion.uasset",
@@ -859,6 +859,22 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Platform_Coral/Platform_Coral/initialShadingGroup-Colour.ubulk",
 			"ChunkId": "73d6d8a771694cbb00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/MediumPocky/initialShadingGroup-Colour.uasset",
+			"ChunkId": "6f2ecf5b47bb0c1800000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/MediumPocky/initialShadingGroup-Colour.ubulk",
+			"ChunkId": "6f2ecf5b47bb0c1800000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_basecolor.uasset",
+			"ChunkId": "bd003b7fe49d4ef300000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/SandTerrain/Substance_graph_basecolor.ubulk",
+			"ChunkId": "bd003b7fe49d4ef300000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Pebble/initialShadingGroup-Roughness.uasset",
@@ -901,14 +917,6 @@
 			"ChunkId": "30f84ada768349ae00000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/MediumPocky/initialShadingGroup-Colour.uasset",
-			"ChunkId": "6f2ecf5b47bb0c1800000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/MediumPocky/initialShadingGroup-Colour.ubulk",
-			"ChunkId": "6f2ecf5b47bb0c1800000002"
-		},
-		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Lollipop/initialShadingGroup-Roughness.uasset",
 			"ChunkId": "5aa114fccd8b90d800000001"
 		},
@@ -931,6 +939,14 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Lollipop/initialShadingGroup-Colour.ubulk",
 			"ChunkId": "38dd6158d54e721a00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/LargePocky/initialShadingGroup-Roughness.uasset",
+			"ChunkId": "7787b8b0f8e7781000000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/LargePocky/initialShadingGroup-Roughness.ubulk",
+			"ChunkId": "7787b8b0f8e7781000000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/LargePocky/initialShadingGroup-Metallic.uasset",
@@ -989,6 +1005,22 @@
 			"ChunkId": "8b5e20b343448c2800000002"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Eugene_Unwrapped/helmet_mask.uasset",
+			"ChunkId": "f8d0c4cd1dd1d4eb00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Eugene_Unwrapped/helmet_mask.ubulk",
+			"ChunkId": "f8d0c4cd1dd1d4eb00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Shrimp/Shrimp_normal.uasset",
+			"ChunkId": "c72e0175401af90300000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Shrimp/Shrimp_normal.ubulk",
+			"ChunkId": "c72e0175401af90300000002"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Eugene_Unwrapped/initialShadingGroup-Roughness.uasset",
 			"ChunkId": "4694e7ff8a5c94e900000001"
 		},
@@ -1013,12 +1045,52 @@
 			"ChunkId": "310d4d42f29ea98c00000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Eugene_Unwrapped/helmet_mask.uasset",
-			"ChunkId": "f8d0c4cd1dd1d4eb00000001"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Shrimp/Shrimp_Basecolour.uasset",
+			"ChunkId": "25d1b25742432f3b00000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Eugene_Unwrapped/helmet_mask.ubulk",
-			"ChunkId": "f8d0c4cd1dd1d4eb00000002"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Shrimp/Shrimp_Basecolour.ubulk",
+			"ChunkId": "25d1b25742432f3b00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Roughness.uasset",
+			"ChunkId": "0acc318d78c6670b00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Roughness.ubulk",
+			"ChunkId": "0acc318d78c6670b00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Metallic.uasset",
+			"ChunkId": "3d583c18dc5dc07b00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Metallic.ubulk",
+			"ChunkId": "3d583c18dc5dc07b00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Colour.uasset",
+			"ChunkId": "5a0758af547911c200000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Colour.ubulk",
+			"ChunkId": "5a0758af547911c200000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/CrepeRay/initialShadingGroup-Roughness.uasset",
+			"ChunkId": "0b0fbffde8f55ed300000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/CrepeRay/initialShadingGroup-Roughness.ubulk",
+			"ChunkId": "0b0fbffde8f55ed300000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/CrepeRay/initialShadingGroup-Colour.uasset",
+			"ChunkId": "859d448cbb793d1000000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Creatures/CrepeRay/initialShadingGroup-Colour.ubulk",
+			"ChunkId": "859d448cbb793d1000000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Coral_Clump_2/initialShadingGroup-Roughness.uasset",
@@ -1053,12 +1125,12 @@
 			"ChunkId": "cfbf29dc4ec7789d00000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/urchin_button_hovered.uasset",
-			"ChunkId": "b029b5f50be1eaf000000001"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Metallic.uasset",
+			"ChunkId": "7da7512f189ce33100000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/shrimp_button_hovered.uasset",
-			"ChunkId": "71153a27601abc0a00000001"
+			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Metallic.ubulk",
+			"ChunkId": "7da7512f189ce33100000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Colour.uasset",
@@ -1067,6 +1139,22 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Colour.ubulk",
 			"ChunkId": "820200cb7c83312c00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Widget_Urchin_Button.uasset",
+			"ChunkId": "2c4169107c6bebff00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/camera.uasset",
+			"ChunkId": "5edcb6a5615169b600000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/ray_button.uasset",
+			"ChunkId": "1e92549a844e02f100000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Poster.uasset",
+			"ChunkId": "6b4579e13600d30200000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Big_Candy_Cane/initialShadingGroup-Roughness.uasset",
@@ -1091,10 +1179,6 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Images/MaterialTextures/Big_Candy_Cane/initialShadingGroup-Colour.ubulk",
 			"ChunkId": "f5444ea31f422d8600000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Widget_Urchin_Button.uasset",
-			"ChunkId": "2c4169107c6bebff00000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Widget_Shrimp_Button.uasset",
@@ -1133,36 +1217,12 @@
 			"ChunkId": "345858713024199700000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Fonts/Vividly-Regular.uasset",
-			"ChunkId": "d0ecea193fff151900000001"
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/urchin_button_hovered.uasset",
+			"ChunkId": "b029b5f50be1eaf000000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/Struct_FishData.uasset",
-			"ChunkId": "e8152476db93841900000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/E_ScoreModifiers.uasset",
-			"ChunkId": "f06cb2216b954d3c00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/E_FishType.uasset",
-			"ChunkId": "d8c5ea41613ed39000000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/Camera_Inner.uasset",
-			"ChunkId": "6e898afa8ec0777000000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/new_camv.uasset",
-			"ChunkId": "4ec58601c47dce8a00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/encyclopedia_tab_hovered.uasset",
-			"ChunkId": "3299e7f5d523844100000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Dialogue_Box.uasset",
-			"ChunkId": "bc7c6fb82597fa0e00000001"
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/shrimp_button_hovered.uasset",
+			"ChunkId": "71153a27601abc0a00000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/resume_button_hovered.uasset",
@@ -1175,10 +1235,6 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/ray_button_hovered.uasset",
 			"ChunkId": "8d7c856872a9abf200000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/ray_button.uasset",
-			"ChunkId": "1e92549a844e02f100000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/pause_menu_base.uasset",
@@ -1209,6 +1265,10 @@
 			"ChunkId": "5358ffe5f2aa816f00000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Logo.uasset",
+			"ChunkId": "c02c6117301ddee100000001"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/jellyfish_button_hovered.uasset",
 			"ChunkId": "4f933163e20e4dbf00000001"
 		},
@@ -1221,6 +1281,14 @@
 			"ChunkId": "6b16471a021037bd00000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/encyclopedia_tab_hovered.uasset",
+			"ChunkId": "3299e7f5d523844100000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Dialogue_Box.uasset",
+			"ChunkId": "bc7c6fb82597fa0e00000001"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/Dialogue_Bear.uasset",
 			"ChunkId": "2b4efd8187f9bcf000000001"
 		},
@@ -1229,8 +1297,44 @@
 			"ChunkId": "ab8ce52f17122d5300000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/camera.uasset",
-			"ChunkId": "5edcb6a5615169b600000001"
+			"Path": "Ba2b_Jelly/Content/Fonts/Vividly-Regular.uasset",
+			"ChunkId": "d0ecea193fff151900000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/Struct_FishData.uasset",
+			"ChunkId": "e8152476db93841900000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/E_ScoreModifiers.uasset",
+			"ChunkId": "f06cb2216b954d3c00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/E_FishType.uasset",
+			"ChunkId": "d8c5ea41613ed39000000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/E_FishPhotoBitmask.uasset",
+			"ChunkId": "640941e78dd2b6f300000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/E_DiverState.uasset",
+			"ChunkId": "11757192ea012c8800000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/Camera_Inner.uasset",
+			"ChunkId": "6e898afa8ec0777000000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/Kelp1.uasset",
+			"ChunkId": "4049929ec025755400000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/grass_texture.uasset",
+			"ChunkId": "46586b1009a6bc8a00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/grass_texture.ubulk",
+			"ChunkId": "46586b1009a6bc8a00000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/WidgetImages/cachedImage.uasset",
@@ -1285,20 +1389,12 @@
 			"ChunkId": "165404a67dbd7bd700000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Images/Artwork/new_camv.uasset",
+			"ChunkId": "4ec58601c47dce8a00000001"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/Kelp2.uasset",
 			"ChunkId": "d7d4b6f0f350684b00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/Kelp1.uasset",
-			"ChunkId": "4049929ec025755400000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/grass_texture.uasset",
-			"ChunkId": "46586b1009a6bc8a00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Images/Artwork/grass_texture.ubulk",
-			"ChunkId": "46586b1009a6bc8a00000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Images/Artwork/grass.uasset",
@@ -1333,20 +1429,8 @@
 			"ChunkId": "09eba3aab15217d000000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/E_FishPhotoBitmask.uasset",
-			"ChunkId": "640941e78dd2b6f300000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/E_DiverState.uasset",
-			"ChunkId": "11757192ea012c8800000001"
-		},
-		{
 			"Path": "Ba2b_Jelly/Content/Blueprints/Widgets/WBP_Encyclopedia_Button.uasset",
 			"ChunkId": "5a5e995123ff221900000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Blueprints/LevelManagement/WBP_TitleScreen.uasset",
-			"ChunkId": "1221d47c078022b700000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Blueprints/BP_ThirdPersonView.uasset",
@@ -1363,54 +1447,6 @@
 		{
 			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 			"ChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
-			"ChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/water_noise_2.uasset",
-			"ChunkId": "738415fe850d92a700000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/water_noise_2.ubulk",
-			"ChunkId": "738415fe850d92a700000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/putting_away_noise.uasset",
-			"ChunkId": "cf29290eb22028ca00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/putting_away_noise.ubulk",
-			"ChunkId": "cf29290eb22028ca00000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/page_flip_ui_.uasset",
-			"ChunkId": "a23b841beecf68d900000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/page_flip_ui_.ubulk",
-			"ChunkId": "a23b841beecf68d900000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/camera_noise.uasset",
-			"ChunkId": "b6f29eae1f095a3500000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/camera_noise.ubulk",
-			"ChunkId": "b6f29eae1f095a3500000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/Background_ambience.uasset",
-			"ChunkId": "4a85bb5647e6293600000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Audio/Background_ambience.ubulk",
-			"ChunkId": "4a85bb5647e6293600000002"
 		},
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
@@ -1469,12 +1505,16 @@
 			"ChunkId": "3bf2df25e14476d700000001"
 		},
 		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
+			"ChunkId": "4762b775bfe4b22d00000001"
 		},
 		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
 			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
@@ -1485,8 +1525,60 @@
 			"ChunkId": "2d5d52b0905803e600000002"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
-			"ChunkId": "4762b775bfe4b22d00000001"
+			"Path": "Ba2b_Jelly/Content/Audio/water_noise_2.uasset",
+			"ChunkId": "738415fe850d92a700000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/water_noise_2.ubulk",
+			"ChunkId": "738415fe850d92a700000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/putting_away_noise.uasset",
+			"ChunkId": "cf29290eb22028ca00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/putting_away_noise.ubulk",
+			"ChunkId": "cf29290eb22028ca00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/page_flip_ui_.uasset",
+			"ChunkId": "a23b841beecf68d900000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/page_flip_ui_.ubulk",
+			"ChunkId": "a23b841beecf68d900000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/camera_noise.uasset",
+			"ChunkId": "b6f29eae1f095a3500000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/camera_noise.ubulk",
+			"ChunkId": "b6f29eae1f095a3500000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/Background_ambience.uasset",
+			"ChunkId": "4a85bb5647e6293600000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Audio/Background_ambience.ubulk",
+			"ChunkId": "4a85bb5647e6293600000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
@@ -1495,14 +1587,6 @@
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
 			"ChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
-			"ChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
-			"ChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
 			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
@@ -1589,40 +1673,44 @@
 			"ChunkId": "3858a6e1c9a1a31c00000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_SmallCandyCane.uasset",
-			"ChunkId": "0efc1da44f4c808f00000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_Urchin.uasset",
+			"ChunkId": "8bbea4ac9a7529cc00000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_SmallPocky.uasset",
-			"ChunkId": "90949ef3a823c9c500000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_SmallCandyCane.uasset",
+			"ChunkId": "21535a7875b745b600000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_Skull.uasset",
-			"ChunkId": "767a28a332fb49e900000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_SmallPocky.uasset",
+			"ChunkId": "98e62f1fcd5e4af200000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_PlatformCoral.uasset",
-			"ChunkId": "8811e38f9682369600000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_Skull.uasset",
+			"ChunkId": "dc6c9a3c06ff401e00000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_Pebble.uasset",
-			"ChunkId": "9f46d826ab35435300000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_PlatformCoral.uasset",
+			"ChunkId": "0c60bffb8f2bcf6900000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_MediumPocky.uasset",
-			"ChunkId": "46ca639d94d7d19800000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_Pebble.uasset",
+			"ChunkId": "13f7244bdc3ad17100000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_Lollipop.uasset",
-			"ChunkId": "c27b38969746efda00000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_MediumPocky.uasset",
+			"ChunkId": "20c1516a371f65d100000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_LargePocky.uasset",
-			"ChunkId": "3b36b5dca01a2b2f00000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_Lollipop.uasset",
+			"ChunkId": "a0123e43e39bd70e00000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_JellyStarfish.uasset",
-			"ChunkId": "29fcb596bc5907f300000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_LargePocky.uasset",
+			"ChunkId": "8c15c4d51f865b8700000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_JellyStarfish.uasset",
+			"ChunkId": "e26a2e1eac92c62300000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/Eugene/M_Eugene_Helmet.uasset",
@@ -1637,12 +1725,24 @@
 			"ChunkId": "ce2774cc59f197a700000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_CoralClump2.uasset",
-			"ChunkId": "415d1a112a415f0d00000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_Shrimp.uasset",
+			"ChunkId": "88c651d2de365a4400000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_CoralClump.uasset",
-			"ChunkId": "ae050e78013d3bfe00000001"
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_otter.uasset",
+			"ChunkId": "1b5945803b7bb35a00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_CrepeRay.uasset",
+			"ChunkId": "f0ba1df8e3218e0400000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_CoralClump2.uasset",
+			"ChunkId": "7ce0d5e95a53933400000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/SceneObjects/M_CoralClump.uasset",
+			"ChunkId": "f936d63b204bc47600000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_BCandyCane.uasset",
@@ -1659,6 +1759,10 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Blueprints/Widgets/ControlHUDs/WBP_CameraHUD.uasset",
 			"ChunkId": "b57c00e6e03305f700000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_Rock.uasset",
+			"ChunkId": "cd961b1069fdbc8200000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/Terrain/M_LS_Test.uasset",
@@ -1679,10 +1783,6 @@
 		{
 			"Path": "Ba2b_Jelly/Content/DataStructures/Struct_PhotoData.uasset",
 			"ChunkId": "eb8fe59e174b7a4a00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Blueprints/LevelManagement/BP_SpawnTitleScreen.uasset",
-			"ChunkId": "581b186bfc3d128400000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/LevelTools/BP_SkeletonPlacer.uasset",
@@ -2329,20 +2429,28 @@
 			"ChunkId": "6e6db99420d6584700000002"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/Dessimated_Unwrapped_Urchin.uasset",
+			"ChunkId": "129f0bf8bf0e2ebb00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/Dessimated_Unwrapped_Urchin.ubulk",
+			"ChunkId": "129f0bf8bf0e2ebb00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/BatRay_to_Texture.uasset",
+			"ChunkId": "4133153a3368233500000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/BatRay_to_Texture.ubulk",
+			"ChunkId": "4133153a3368233500000002"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Assets/Models/untitled.uasset",
 			"ChunkId": "5227be9374fc088000000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/Models/untitled.ubulk",
 			"ChunkId": "5227be9374fc088000000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/shromp_texture_pls.uasset",
-			"ChunkId": "9724ac55175fd89b00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/shromp_texture_pls.ubulk",
-			"ChunkId": "9724ac55175fd89b00000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/Models/Sherbert_Straw_Tuft.uasset",
@@ -2385,44 +2493,12 @@
 			"ChunkId": "594c4bc0b0050af400000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_Group_Rock_1_Low_Poly_Group44313.uasset",
-			"ChunkId": "cb7343981810882800000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_Group_Rock_1_Low_Poly_Group44313.ubulk",
-			"ChunkId": "cb7343981810882800000002"
-		},
-		{
 			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_Group.uasset",
 			"ChunkId": "1ef86f4975f8fcfc00000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_Group.ubulk",
 			"ChunkId": "1ef86f4975f8fcfc00000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_5.uasset",
-			"ChunkId": "84d1ba9f1760f1e800000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_5.ubulk",
-			"ChunkId": "84d1ba9f1760f1e800000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_4.uasset",
-			"ChunkId": "7ffa20696fab441c00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_4.ubulk",
-			"ChunkId": "7ffa20696fab441c00000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_3.uasset",
-			"ChunkId": "db0fe42e968c984400000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_3.ubulk",
-			"ChunkId": "db0fe42e968c984400000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_2_Rock_2_Low_Poly_Group21531.uasset",
@@ -2471,14 +2547,6 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/Models/Eugene_pls_unsquonk_my_precious_baby_boy.ubulk",
 			"ChunkId": "6eab7b99cd13fcb000000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/BatRay_to_Texture.uasset",
-			"ChunkId": "49e7b405f8e73db800000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Assets/Models/BatRay_to_Texture.ubulk",
-			"ChunkId": "49e7b405f8e73db800000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/DevAssets/Tree1.uasset",
@@ -2641,12 +2709,44 @@
 			"ChunkId": "34afe0a9bed6860900000002"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_Group_Rock_1_Low_Poly_Group44313.uasset",
+			"ChunkId": "cb7343981810882800000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_Group_Rock_1_Low_Poly_Group44313.ubulk",
+			"ChunkId": "cb7343981810882800000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_5.uasset",
+			"ChunkId": "84d1ba9f1760f1e800000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_5.ubulk",
+			"ChunkId": "84d1ba9f1760f1e800000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_4.uasset",
+			"ChunkId": "7ffa20696fab441c00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_4.ubulk",
+			"ChunkId": "7ffa20696fab441c00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_3.uasset",
+			"ChunkId": "db0fe42e968c984400000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Rock_3.ubulk",
+			"ChunkId": "db0fe42e968c984400000002"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Blueprints/Widgets/ControlHUDs/WBP_SwimmingHUD.uasset",
 			"ChunkId": "d70b8a1b095e414000000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/LV_TitleScreen.umap",
-			"ChunkId": "d4a80f3f8c7c8b4e00000001"
+			"Path": "Ba2b_Jelly/Content/Blueprints/LevelManagement/WBP_Credits.uasset",
+			"ChunkId": "47558afe49dde1b000000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/LevelTools/BP_RadialPlacer.uasset",
@@ -2741,18 +2841,6 @@
 			"ChunkId": "5f2fcf9b223a07fa00000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/Fish_Data_V2.uasset",
-			"ChunkId": "26e3a1ae2b9a49f800000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/Fish_Data_Table_3.uasset",
-			"ChunkId": "804a819ecd41d5dd00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/DataStructures/Fish_Data.uasset",
-			"ChunkId": "7e258608e41bba3a00000001"
-		},
-		{
 			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
 			"ChunkId": "3a0245e4904b10b500000001"
 		},
@@ -2777,8 +2865,36 @@
 			"ChunkId": "7e618acf0cafdca100000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/shromp_texture_pls.uasset",
+			"ChunkId": "e68decbbfb6ea16000000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/shromp_texture_pls.ubulk",
+			"ChunkId": "e68decbbfb6ea16000000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/Otter_to_texture.uasset",
+			"ChunkId": "a5801275b2e9829f00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Assets/Models/Creatures/Otter_to_texture.ubulk",
+			"ChunkId": "a5801275b2e9829f00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/Fish_Data_V2.uasset",
+			"ChunkId": "26e3a1ae2b9a49f800000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/Fish_Data.uasset",
+			"ChunkId": "7e258608e41bba3a00000001"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/Blueprints/Widgets/WBP_Controls.uasset",
 			"ChunkId": "9bad8c254683d9c300000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Blueprints/LevelManagement/WBP_TitleScreen.uasset",
+			"ChunkId": "1221d47c078022b700000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/DevAssets/FT_Weeds2.uasset",
@@ -2857,16 +2973,16 @@
 			"ChunkId": "3b49fde6f1eeb3b100000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/Blueprints/GI_Custom_Game_Instance.uasset",
-			"ChunkId": "d4dc29af66f04dc000000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/Blueprints/BP_Fish_Parent.uasset",
-			"ChunkId": "2667d55119b379ab00000001"
-		},
-		{
 			"Path": "Ba2b_Jelly/Content/Blueprints/BP_EnvironmentHandler.uasset",
 			"ChunkId": "c43b0545b305b17d00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/DataStructures/Fish_Data_Table_3.uasset",
+			"ChunkId": "804a819ecd41d5dd00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Blueprints/LevelManagement/BP_SpawnTitleScreen.uasset",
+			"ChunkId": "581b186bfc3d128400000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/Materials/SurfaceMaterial/M_KelpShort.uasset",
@@ -2895,6 +3011,18 @@
 		{
 			"Path": "Ba2b_Jelly/Content/Assets/DevAssets/PlantBillbordMesh1_-_Less_TALL.ubulk",
 			"ChunkId": "0e0d410fd499f3f700000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Blueprints/GI_Custom_Game_Instance.uasset",
+			"ChunkId": "d4dc29af66f04dc000000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/Blueprints/BP_Fish_Parent.uasset",
+			"ChunkId": "2667d55119b379ab00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/LV_TitleScreen.umap",
+			"ChunkId": "d4a80f3f8c7c8b4e00000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/DataStructures/Struct_PhotoHitData.uasset",
@@ -2993,12 +3121,36 @@
 			"ChunkId": "b5c3fd8a75b4acbd00000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-2_DL0.umap",
+			"ChunkId": "d2911445a133965500000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-2_DL0.ubulk",
+			"ChunkId": "d2911445a133965500000002"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X-1_Y-1_DL0.umap",
 			"ChunkId": "61aa63582d979c5400000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X-1_Y0_DL0.umap",
 			"ChunkId": "c84b7b86a026dc6c00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0.umap",
+			"ChunkId": "aa8a8a2b7fc89ec700000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0.ubulk",
+			"ChunkId": "aa8a8a2b7fc89ec700000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-2_DL0.umap",
+			"ChunkId": "d0a727601ee5c88500000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-2_DL0.ubulk",
+			"ChunkId": "d0a727601ee5c88500000002"
 		},
 		{
 			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
@@ -3041,6 +3193,102 @@
 			"ChunkId": "51c6c530c6e9e7c500000001"
 		},
 		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0.umap",
+			"ChunkId": "27843a3aeb5478ba00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0.ubulk",
+			"ChunkId": "27843a3aeb5478ba00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
+			"ChunkId": "56d51199b9b2142a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
+			"ChunkId": "56d51199b9b2142a00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0.umap",
+			"ChunkId": "aca9a70dbf5ad82200000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0.ubulk",
+			"ChunkId": "aca9a70dbf5ad82200000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
+			"ChunkId": "34b40296d0d3844e00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0.umap",
+			"ChunkId": "ae8ac05c497b698100000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0.ubulk",
+			"ChunkId": "ae8ac05c497b698100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
+			"ChunkId": "86737b633647e77300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.ubulk",
+			"ChunkId": "86737b633647e77300000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
+			"ChunkId": "927b2fe4876a1f7400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
+			"ChunkId": "927b2fe4876a1f7400000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0.umap",
+			"ChunkId": "24ce645b7adc5f8f00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0.ubulk",
+			"ChunkId": "24ce645b7adc5f8f00000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y0_DL0.umap",
+			"ChunkId": "c6b44f12a9445e9100000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y0_DL0.ubulk",
+			"ChunkId": "c6b44f12a9445e9100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
+			"ChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
+			"ChunkId": "eb26c788a1a10ea100000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
+			"ChunkId": "eb26c788a1a10ea100000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/LV_KelpForest.umap",
+			"ChunkId": "cecf092af1e8d38700000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/LV_KelpForest.ubulk",
+			"ChunkId": "cecf092af1e8d38700000002"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0.umap",
+			"ChunkId": "6e1d115cd6a9d52500000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0.ubulk",
+			"ChunkId": "6e1d115cd6a9d52500000002"
+		},
+		{
 			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y0_DL0.umap",
 			"ChunkId": "ce5b38294bc2ee8600000001"
 		},
@@ -3053,72 +3301,16 @@
 			"ChunkId": "cb90c94586b3228900000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0.umap",
-			"ChunkId": "c76f753001eb1e7300000001"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0.umap",
+			"ChunkId": "eba56bc8b513fa2700000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0.ubulk",
-			"ChunkId": "c76f753001eb1e7300000002"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0.ubulk",
+			"ChunkId": "eba56bc8b513fa2700000002"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
-			"ChunkId": "927b2fe4876a1f7400000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
-			"ChunkId": "927b2fe4876a1f7400000002"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
-			"ChunkId": "56d51199b9b2142a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
-			"ChunkId": "56d51199b9b2142a00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
-			"ChunkId": "34b40296d0d3844e00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0.umap",
-			"ChunkId": "aa8a8a2b7fc89ec700000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0.ubulk",
-			"ChunkId": "aa8a8a2b7fc89ec700000002"
-		},
-		{
-			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
-			"ChunkId": "eb26c788a1a10ea100000001"
-		},
-		{
-			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
-			"ChunkId": "eb26c788a1a10ea100000002"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
-			"ChunkId": "86737b633647e77300000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Blue.ubulk",
-			"ChunkId": "86737b633647e77300000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0.umap",
-			"ChunkId": "24ce645b7adc5f8f00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0.ubulk",
-			"ChunkId": "24ce645b7adc5f8f00000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0.umap",
-			"ChunkId": "27843a3aeb5478ba00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0.ubulk",
-			"ChunkId": "27843a3aeb5478ba00000002"
+			"Path": "Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset",
+			"ChunkId": "dee7fa19f423dfad00000001"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-1_DL0.umap",
@@ -3129,58 +3321,6 @@
 			"ChunkId": "5e4c865e804f558d00000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0.umap",
-			"ChunkId": "d8e48ee8649f9e9700000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0.ubulk",
-			"ChunkId": "d8e48ee8649f9e9700000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0.umap",
-			"ChunkId": "ae8ac05c497b698100000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0.ubulk",
-			"ChunkId": "ae8ac05c497b698100000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
-			"ChunkId": "b1dd9666d4d25cf600000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0.umap",
-			"ChunkId": "6da2730ceed2c61300000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0.ubulk",
-			"ChunkId": "6da2730ceed2c61300000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0.umap",
-			"ChunkId": "5b95e513f336ffcb00000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0.ubulk",
-			"ChunkId": "5b95e513f336ffcb00000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0.umap",
-			"ChunkId": "6e1d115cd6a9d52500000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0.ubulk",
-			"ChunkId": "6e1d115cd6a9d52500000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0.umap",
-			"ChunkId": "aca9a70dbf5ad82200000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0.ubulk",
-			"ChunkId": "aca9a70dbf5ad82200000002"
-		},
-		{
 			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y1_DL0.umap",
 			"ChunkId": "dfba9b8cc50bbbb800000001"
 		},
@@ -3189,12 +3329,24 @@
 			"ChunkId": "dfba9b8cc50bbbb800000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-2_DL0.umap",
-			"ChunkId": "d0a727601ee5c88500000001"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0.umap",
+			"ChunkId": "c76f753001eb1e7300000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-2_DL0.ubulk",
-			"ChunkId": "d0a727601ee5c88500000002"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0.ubulk",
+			"ChunkId": "c76f753001eb1e7300000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
+			"ChunkId": "6ed73496191bba2800000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0.umap",
+			"ChunkId": "5b95e513f336ffcb00000001"
+		},
+		{
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0.ubulk",
+			"ChunkId": "5b95e513f336ffcb00000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-2_DL0.umap",
@@ -3213,28 +3365,20 @@
 			"ChunkId": "bb1d8a7d1ba2ea2900000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0.umap",
-			"ChunkId": "a6eb5651df6026f400000001"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0.umap",
+			"ChunkId": "6da2730ceed2c61300000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0.ubulk",
-			"ChunkId": "a6eb5651df6026f400000002"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0.ubulk",
+			"ChunkId": "6da2730ceed2c61300000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-2_DL0.umap",
-			"ChunkId": "d2911445a133965500000001"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0.umap",
+			"ChunkId": "d8e48ee8649f9e9700000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-2_DL0.ubulk",
-			"ChunkId": "d2911445a133965500000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/LV_KelpForest.umap",
-			"ChunkId": "cecf092af1e8d38700000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/LV_KelpForest.ubulk",
-			"ChunkId": "cecf092af1e8d38700000002"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0.ubulk",
+			"ChunkId": "d8e48ee8649f9e9700000002"
 		},
 		{
 			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y-2_DL0.umap",
@@ -3245,28 +3389,12 @@
 			"ChunkId": "18350809f258b21d00000002"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0.umap",
-			"ChunkId": "eba56bc8b513fa2700000001"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0.umap",
+			"ChunkId": "a6eb5651df6026f400000001"
 		},
 		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0.ubulk",
-			"ChunkId": "eba56bc8b513fa2700000002"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y0_DL0.umap",
-			"ChunkId": "c6b44f12a9445e9100000001"
-		},
-		{
-			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y0_DL0.ubulk",
-			"ChunkId": "c6b44f12a9445e9100000002"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
-			"ChunkId": "6ed73496191bba2800000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset",
-			"ChunkId": "dee7fa19f423dfad00000001"
+			"Path": "Ba2b_Jelly/Content/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0.ubulk",
+			"ChunkId": "a6eb5651df6026f400000002"
 		}
 	],
 	"Packages": [
@@ -3854,19 +3982,20 @@
 			"PackageChunkId": "000000000000000000000000"
 		},
 		{
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_SceneryObjects",
+			"PackageChunkId": "85e3b006bf56b4ef00000001"
+		},
+		{
 			"Name": "/Game/Materials/SurfaceMaterial/NewMaterial",
 			"PackageChunkId": "108032a7496e76ce00000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_Noise",
-			"PackageChunkId": "b6385f361afab3be00000001"
+			"Name": "/Game/Materials/SurfaceMaterial/M_SceneryObjects",
+			"PackageChunkId": "717b609e2747feea00000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/Illustration",
-			"PackageChunkId": "4e308194d6082a0700000001",
-			"BulkDataChunkIds": [
-				"4e308194d6082a0700000002"
-			]
+			"Name": "/Game/Materials/SurfaceMaterial/M_Noise",
+			"PackageChunkId": "b6385f361afab3be00000001"
 		},
 		{
 			"Name": "/Game/Materials/PostProcessing/M_PP_GaussianBlur",
@@ -3875,14 +4004,6 @@
 		{
 			"Name": "/Game/Materials/PostProcessing/M_PP_EdgeDetector",
 			"PackageChunkId": "467d6e6cfe7bbe9600000001"
-		},
-		{
-			"Name": "/Game/Materials/PostProcessing/M_PP_CelShading",
-			"PackageChunkId": "52ad6db79c2b1df700000001"
-		},
-		{
-			"Name": "/Game/Materials/MFunctions/MF_Two-Octave-Waves",
-			"PackageChunkId": "76d8ce7299ad5c2500000001"
 		},
 		{
 			"Name": "/Engine/EditorResources/S_Actor",
@@ -3904,6 +4025,14 @@
 			"BulkDataChunkIds": [
 				"39ddeba29b0f2ed200000002"
 			]
+		},
+		{
+			"Name": "/Game/Materials/PostProcessing/M_PP_CelShading",
+			"PackageChunkId": "52ad6db79c2b1df700000001"
+		},
+		{
+			"Name": "/Game/Materials/MFunctions/MF_Two-Octave-Waves",
+			"PackageChunkId": "76d8ce7299ad5c2500000001"
 		},
 		{
 			"Name": "/Game/Materials/MFunctions/MF_ThicknessModulation",
@@ -3962,6 +4091,13 @@
 			"PackageChunkId": "e5475eeecb7a15b100000001"
 		},
 		{
+			"Name": "/Game/Materials/SurfaceMaterial/Illustration",
+			"PackageChunkId": "4e308194d6082a0700000001",
+			"BulkDataChunkIds": [
+				"4e308194d6082a0700000002"
+			]
+		},
+		{
 			"Name": "/Game/LevelTools/DataCurves/FC_RadiusAdjustment_001",
 			"PackageChunkId": "1a34ab8e3b92c57c00000001"
 		},
@@ -3982,31 +4118,17 @@
 			"PackageChunkId": "f2c2b36ad7ae854200000001"
 		},
 		{
-			"Name": "/Game/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Metallic",
-			"PackageChunkId": "7da7512f189ce33100000001",
+			"Name": "/Game/Images/MaterialTextures/SmallPocky/initialShadingGroup-Metallic",
+			"PackageChunkId": "a13897a2aba5184700000001",
 			"BulkDataChunkIds": [
-				"7da7512f189ce33100000002"
+				"a13897a2aba5184700000002"
 			]
 		},
 		{
-			"Name": "/Game/Images/MaterialTextures/LargePocky/initialShadingGroup-Roughness",
-			"PackageChunkId": "7787b8b0f8e7781000000001",
+			"Name": "/Game/Images/MaterialTextures/SmallPocky/initialShadingGroup-Colour",
+			"PackageChunkId": "455b909103c4f83000000001",
 			"BulkDataChunkIds": [
-				"7787b8b0f8e7781000000002"
-			]
-		},
-		{
-			"Name": "/Game/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Colour",
-			"PackageChunkId": "2ebbbe892bb231a100000001",
-			"BulkDataChunkIds": [
-				"2ebbbe892bb231a100000002"
-			]
-		},
-		{
-			"Name": "/Game/Images/MaterialTextures/SandTerrain/Substance_graph_normal",
-			"PackageChunkId": "969db7065a80afee00000001",
-			"BulkDataChunkIds": [
-				"969db7065a80afee00000002"
+				"455b909103c4f83000000002"
 			]
 		},
 		{
@@ -4028,6 +4150,20 @@
 			"PackageChunkId": "f58a6caa82873ae800000001",
 			"BulkDataChunkIds": [
 				"f58a6caa82873ae800000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Urchin/Urchin_Low_Poly_initialShadingGroup_Normal",
+			"PackageChunkId": "7ac51e45895663bb00000001",
+			"BulkDataChunkIds": [
+				"7ac51e45895663bb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Urchin/Urchin_Low_Poly_initialShadingGroup_BaseColor__1_",
+			"PackageChunkId": "3bb3e90e17cd4a4e00000001",
+			"BulkDataChunkIds": [
+				"3bb3e90e17cd4a4e00000002"
 			]
 		},
 		{
@@ -4059,20 +4195,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Images/MaterialTextures/SmallPocky/initialShadingGroup-Metallic",
-			"PackageChunkId": "a13897a2aba5184700000001",
-			"BulkDataChunkIds": [
-				"a13897a2aba5184700000002"
-			]
-		},
-		{
-			"Name": "/Game/Images/MaterialTextures/SmallPocky/initialShadingGroup-Colour",
-			"PackageChunkId": "455b909103c4f83000000001",
-			"BulkDataChunkIds": [
-				"455b909103c4f83000000002"
-			]
-		},
-		{
 			"Name": "/Game/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Roughness",
 			"PackageChunkId": "6678ef7d2eb16cfb00000001",
 			"BulkDataChunkIds": [
@@ -4087,17 +4209,24 @@
 			]
 		},
 		{
+			"Name": "/Game/Images/MaterialTextures/Skull/Skull_initialShadingGroup-Colour",
+			"PackageChunkId": "2ebbbe892bb231a100000001",
+			"BulkDataChunkIds": [
+				"2ebbbe892bb231a100000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/SandTerrain/Substance_graph_normal",
+			"PackageChunkId": "969db7065a80afee00000001",
+			"BulkDataChunkIds": [
+				"969db7065a80afee00000002"
+			]
+		},
+		{
 			"Name": "/Game/Images/MaterialTextures/SandTerrain/Substance_graph_height",
 			"PackageChunkId": "6eb8abcb26e143f100000001",
 			"BulkDataChunkIds": [
 				"6eb8abcb26e143f100000002"
-			]
-		},
-		{
-			"Name": "/Game/Images/MaterialTextures/SandTerrain/Substance_graph_basecolor",
-			"PackageChunkId": "bd003b7fe49d4ef300000001",
-			"BulkDataChunkIds": [
-				"bd003b7fe49d4ef300000002"
 			]
 		},
 		{
@@ -4126,6 +4255,20 @@
 			"PackageChunkId": "73d6d8a771694cbb00000001",
 			"BulkDataChunkIds": [
 				"73d6d8a771694cbb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/MediumPocky/initialShadingGroup-Colour",
+			"PackageChunkId": "6f2ecf5b47bb0c1800000001",
+			"BulkDataChunkIds": [
+				"6f2ecf5b47bb0c1800000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/SandTerrain/Substance_graph_basecolor",
+			"PackageChunkId": "bd003b7fe49d4ef300000001",
+			"BulkDataChunkIds": [
+				"bd003b7fe49d4ef300000002"
 			]
 		},
 		{
@@ -4164,13 +4307,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Images/MaterialTextures/MediumPocky/initialShadingGroup-Colour",
-			"PackageChunkId": "6f2ecf5b47bb0c1800000001",
-			"BulkDataChunkIds": [
-				"6f2ecf5b47bb0c1800000002"
-			]
-		},
-		{
 			"Name": "/Game/Images/MaterialTextures/Lollipop/initialShadingGroup-Roughness",
 			"PackageChunkId": "5aa114fccd8b90d800000001",
 			"BulkDataChunkIds": [
@@ -4189,6 +4325,13 @@
 			"PackageChunkId": "38dd6158d54e721a00000001",
 			"BulkDataChunkIds": [
 				"38dd6158d54e721a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/LargePocky/initialShadingGroup-Roughness",
+			"PackageChunkId": "7787b8b0f8e7781000000001",
+			"BulkDataChunkIds": [
+				"7787b8b0f8e7781000000002"
 			]
 		},
 		{
@@ -4241,6 +4384,20 @@
 			]
 		},
 		{
+			"Name": "/Game/Images/MaterialTextures/Eugene_Unwrapped/helmet_mask",
+			"PackageChunkId": "f8d0c4cd1dd1d4eb00000001",
+			"BulkDataChunkIds": [
+				"f8d0c4cd1dd1d4eb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Creatures/Shrimp/Shrimp_normal",
+			"PackageChunkId": "c72e0175401af90300000001",
+			"BulkDataChunkIds": [
+				"c72e0175401af90300000002"
+			]
+		},
+		{
 			"Name": "/Game/Images/MaterialTextures/Eugene_Unwrapped/initialShadingGroup-Roughness",
 			"PackageChunkId": "4694e7ff8a5c94e900000001",
 			"BulkDataChunkIds": [
@@ -4262,10 +4419,45 @@
 			]
 		},
 		{
-			"Name": "/Game/Images/MaterialTextures/Eugene_Unwrapped/helmet_mask",
-			"PackageChunkId": "f8d0c4cd1dd1d4eb00000001",
+			"Name": "/Game/Images/MaterialTextures/Creatures/Shrimp/Shrimp_Basecolour",
+			"PackageChunkId": "25d1b25742432f3b00000001",
 			"BulkDataChunkIds": [
-				"f8d0c4cd1dd1d4eb00000002"
+				"25d1b25742432f3b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Roughness",
+			"PackageChunkId": "0acc318d78c6670b00000001",
+			"BulkDataChunkIds": [
+				"0acc318d78c6670b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Metallic",
+			"PackageChunkId": "3d583c18dc5dc07b00000001",
+			"BulkDataChunkIds": [
+				"3d583c18dc5dc07b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Creatures/Otter/Otter_to_texture/initialShadingGroup-Colour",
+			"PackageChunkId": "5a0758af547911c200000001",
+			"BulkDataChunkIds": [
+				"5a0758af547911c200000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Creatures/CrepeRay/initialShadingGroup-Roughness",
+			"PackageChunkId": "0b0fbffde8f55ed300000001",
+			"BulkDataChunkIds": [
+				"0b0fbffde8f55ed300000002"
+			]
+		},
+		{
+			"Name": "/Game/Images/MaterialTextures/Creatures/CrepeRay/initialShadingGroup-Colour",
+			"PackageChunkId": "859d448cbb793d1000000001",
+			"BulkDataChunkIds": [
+				"859d448cbb793d1000000002"
 			]
 		},
 		{
@@ -4297,12 +4489,11 @@
 			]
 		},
 		{
-			"Name": "/Game/Images/Artwork/WidgetImages/urchin_button_hovered",
-			"PackageChunkId": "b029b5f50be1eaf000000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/WidgetImages/shrimp_button_hovered",
-			"PackageChunkId": "71153a27601abc0a00000001"
+			"Name": "/Game/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Metallic",
+			"PackageChunkId": "7da7512f189ce33100000001",
+			"BulkDataChunkIds": [
+				"7da7512f189ce33100000002"
+			]
 		},
 		{
 			"Name": "/Game/Images/MaterialTextures/Coral_Clump/initialShadingGroup-Colour",
@@ -4310,6 +4501,22 @@
 			"BulkDataChunkIds": [
 				"820200cb7c83312c00000002"
 			]
+		},
+		{
+			"Name": "/Game/Images/Artwork/WidgetImages/Widget_Urchin_Button",
+			"PackageChunkId": "2c4169107c6bebff00000001"
+		},
+		{
+			"Name": "/Game/Images/Artwork/WidgetImages/camera",
+			"PackageChunkId": "5edcb6a5615169b600000001"
+		},
+		{
+			"Name": "/Game/Images/Artwork/WidgetImages/ray_button",
+			"PackageChunkId": "1e92549a844e02f100000001"
+		},
+		{
+			"Name": "/Game/Images/Artwork/WidgetImages/Poster",
+			"PackageChunkId": "6b4579e13600d30200000001"
 		},
 		{
 			"Name": "/Game/Images/MaterialTextures/Big_Candy_Cane/initialShadingGroup-Roughness",
@@ -4331,10 +4538,6 @@
 			"BulkDataChunkIds": [
 				"f5444ea31f422d8600000002"
 			]
-		},
-		{
-			"Name": "/Game/Images/Artwork/WidgetImages/Widget_Urchin_Button",
-			"PackageChunkId": "2c4169107c6bebff00000001"
 		},
 		{
 			"Name": "/Game/Images/Artwork/WidgetImages/Widget_Shrimp_Button",
@@ -4373,36 +4576,12 @@
 			"PackageChunkId": "345858713024199700000001"
 		},
 		{
-			"Name": "/Game/Fonts/Vividly-Regular",
-			"PackageChunkId": "d0ecea193fff151900000001"
+			"Name": "/Game/Images/Artwork/WidgetImages/urchin_button_hovered",
+			"PackageChunkId": "b029b5f50be1eaf000000001"
 		},
 		{
-			"Name": "/Game/DataStructures/Struct_FishData",
-			"PackageChunkId": "e8152476db93841900000001"
-		},
-		{
-			"Name": "/Game/DataStructures/E_ScoreModifiers",
-			"PackageChunkId": "f06cb2216b954d3c00000001"
-		},
-		{
-			"Name": "/Game/DataStructures/E_FishType",
-			"PackageChunkId": "d8c5ea41613ed39000000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/Camera_Inner",
-			"PackageChunkId": "6e898afa8ec0777000000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/new_camv",
-			"PackageChunkId": "4ec58601c47dce8a00000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/WidgetImages/encyclopedia_tab_hovered",
-			"PackageChunkId": "3299e7f5d523844100000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/WidgetImages/Dialogue_Box",
-			"PackageChunkId": "bc7c6fb82597fa0e00000001"
+			"Name": "/Game/Images/Artwork/WidgetImages/shrimp_button_hovered",
+			"PackageChunkId": "71153a27601abc0a00000001"
 		},
 		{
 			"Name": "/Game/Images/Artwork/WidgetImages/resume_button_hovered",
@@ -4415,10 +4594,6 @@
 		{
 			"Name": "/Game/Images/Artwork/WidgetImages/ray_button_hovered",
 			"PackageChunkId": "8d7c856872a9abf200000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/WidgetImages/ray_button",
-			"PackageChunkId": "1e92549a844e02f100000001"
 		},
 		{
 			"Name": "/Game/Images/Artwork/WidgetImages/pause_menu_base",
@@ -4449,6 +4624,10 @@
 			"PackageChunkId": "5358ffe5f2aa816f00000001"
 		},
 		{
+			"Name": "/Game/Images/Artwork/WidgetImages/Logo",
+			"PackageChunkId": "c02c6117301ddee100000001"
+		},
+		{
 			"Name": "/Game/Images/Artwork/WidgetImages/jellyfish_button_hovered",
 			"PackageChunkId": "4f933163e20e4dbf00000001"
 		},
@@ -4461,6 +4640,14 @@
 			"PackageChunkId": "6b16471a021037bd00000001"
 		},
 		{
+			"Name": "/Game/Images/Artwork/WidgetImages/encyclopedia_tab_hovered",
+			"PackageChunkId": "3299e7f5d523844100000001"
+		},
+		{
+			"Name": "/Game/Images/Artwork/WidgetImages/Dialogue_Box",
+			"PackageChunkId": "bc7c6fb82597fa0e00000001"
+		},
+		{
 			"Name": "/Game/Images/Artwork/WidgetImages/Dialogue_Bear",
 			"PackageChunkId": "2b4efd8187f9bcf000000001"
 		},
@@ -4469,8 +4656,43 @@
 			"PackageChunkId": "ab8ce52f17122d5300000001"
 		},
 		{
-			"Name": "/Game/Images/Artwork/WidgetImages/camera",
-			"PackageChunkId": "5edcb6a5615169b600000001"
+			"Name": "/Game/Fonts/Vividly-Regular",
+			"PackageChunkId": "d0ecea193fff151900000001"
+		},
+		{
+			"Name": "/Game/DataStructures/Struct_FishData",
+			"PackageChunkId": "e8152476db93841900000001"
+		},
+		{
+			"Name": "/Game/DataStructures/E_ScoreModifiers",
+			"PackageChunkId": "f06cb2216b954d3c00000001"
+		},
+		{
+			"Name": "/Game/DataStructures/E_FishType",
+			"PackageChunkId": "d8c5ea41613ed39000000001"
+		},
+		{
+			"Name": "/Game/DataStructures/E_FishPhotoBitmask",
+			"PackageChunkId": "640941e78dd2b6f300000001"
+		},
+		{
+			"Name": "/Game/DataStructures/E_DiverState",
+			"PackageChunkId": "11757192ea012c8800000001"
+		},
+		{
+			"Name": "/Game/Images/Artwork/Camera_Inner",
+			"PackageChunkId": "6e898afa8ec0777000000001"
+		},
+		{
+			"Name": "/Game/Images/Artwork/Kelp1",
+			"PackageChunkId": "4049929ec025755400000001"
+		},
+		{
+			"Name": "/Game/Images/Artwork/grass_texture",
+			"PackageChunkId": "46586b1009a6bc8a00000001",
+			"BulkDataChunkIds": [
+				"46586b1009a6bc8a00000002"
+			]
 		},
 		{
 			"Name": "/Game/Images/Artwork/WidgetImages/cachedImage",
@@ -4524,19 +4746,12 @@
 			"PackageChunkId": "165404a67dbd7bd700000001"
 		},
 		{
+			"Name": "/Game/Images/Artwork/new_camv",
+			"PackageChunkId": "4ec58601c47dce8a00000001"
+		},
+		{
 			"Name": "/Game/Images/Artwork/Kelp2",
 			"PackageChunkId": "d7d4b6f0f350684b00000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/Kelp1",
-			"PackageChunkId": "4049929ec025755400000001"
-		},
-		{
-			"Name": "/Game/Images/Artwork/grass_texture",
-			"PackageChunkId": "46586b1009a6bc8a00000001",
-			"BulkDataChunkIds": [
-				"46586b1009a6bc8a00000002"
-			]
 		},
 		{
 			"Name": "/Game/Images/Artwork/grass",
@@ -4571,20 +4786,8 @@
 			"PackageChunkId": "09eba3aab15217d000000001"
 		},
 		{
-			"Name": "/Game/DataStructures/E_FishPhotoBitmask",
-			"PackageChunkId": "640941e78dd2b6f300000001"
-		},
-		{
-			"Name": "/Game/DataStructures/E_DiverState",
-			"PackageChunkId": "11757192ea012c8800000001"
-		},
-		{
 			"Name": "/Game/Blueprints/Widgets/WBP_Encyclopedia_Button",
 			"PackageChunkId": "5a5e995123ff221900000001"
-		},
-		{
-			"Name": "/Game/Blueprints/LevelManagement/WBP_TitleScreen",
-			"PackageChunkId": "1221d47c078022b700000001"
 		},
 		{
 			"Name": "/Game/Blueprints/BP_ThirdPersonView",
@@ -4601,49 +4804,6 @@
 		{
 			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
 			"PackageChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"PackageChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
-			"PackageChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Name": "/Game/Audio/water_noise_2",
-			"PackageChunkId": "738415fe850d92a700000001",
-			"BulkDataChunkIds": [
-				"738415fe850d92a700000002"
-			]
-		},
-		{
-			"Name": "/Game/Audio/putting_away_noise",
-			"PackageChunkId": "cf29290eb22028ca00000001",
-			"BulkDataChunkIds": [
-				"cf29290eb22028ca00000002"
-			]
-		},
-		{
-			"Name": "/Game/Audio/page_flip_ui_",
-			"PackageChunkId": "a23b841beecf68d900000001",
-			"BulkDataChunkIds": [
-				"a23b841beecf68d900000002"
-			]
-		},
-		{
-			"Name": "/Game/Audio/camera_noise",
-			"PackageChunkId": "b6f29eae1f095a3500000001",
-			"BulkDataChunkIds": [
-				"b6f29eae1f095a3500000002"
-			]
-		},
-		{
-			"Name": "/Game/Audio/Background_ambience",
-			"PackageChunkId": "4a85bb5647e6293600000001",
-			"BulkDataChunkIds": [
-				"4a85bb5647e6293600000002"
-			]
 		},
 		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
@@ -4702,12 +4862,16 @@
 			"PackageChunkId": "3bf2df25e14476d700000001"
 		},
 		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"PackageChunkId": "c472a8877b0ae2f900000001"
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
+			"PackageChunkId": "4762b775bfe4b22d00000001"
 		},
 		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"PackageChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
 			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
@@ -4717,8 +4881,55 @@
 			]
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
-			"PackageChunkId": "4762b775bfe4b22d00000001"
+			"Name": "/Game/Audio/water_noise_2",
+			"PackageChunkId": "738415fe850d92a700000001",
+			"BulkDataChunkIds": [
+				"738415fe850d92a700000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/putting_away_noise",
+			"PackageChunkId": "cf29290eb22028ca00000001",
+			"BulkDataChunkIds": [
+				"cf29290eb22028ca00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/page_flip_ui_",
+			"PackageChunkId": "a23b841beecf68d900000001",
+			"BulkDataChunkIds": [
+				"a23b841beecf68d900000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/camera_noise",
+			"PackageChunkId": "b6f29eae1f095a3500000001",
+			"BulkDataChunkIds": [
+				"b6f29eae1f095a3500000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Background_ambience",
+			"PackageChunkId": "4a85bb5647e6293600000001",
+			"BulkDataChunkIds": [
+				"4a85bb5647e6293600000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
 		},
 		{
 			"Name": "/Paper2D/DummySprite",
@@ -4727,14 +4938,6 @@
 		{
 			"Name": "/Paper2D/DefaultSpriteMaterial",
 			"PackageChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
-			"PackageChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Name": "/ControlRig/M_Manip",
-			"PackageChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
 			"Name": "/Engine/EngineFonts/Roboto",
@@ -4820,40 +5023,44 @@
 			"PackageChunkId": "3858a6e1c9a1a31c00000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_SmallCandyCane",
-			"PackageChunkId": "0efc1da44f4c808f00000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_Urchin",
+			"PackageChunkId": "8bbea4ac9a7529cc00000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_SmallPocky",
-			"PackageChunkId": "90949ef3a823c9c500000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_SmallCandyCane",
+			"PackageChunkId": "21535a7875b745b600000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_Skull",
-			"PackageChunkId": "767a28a332fb49e900000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_SmallPocky",
+			"PackageChunkId": "98e62f1fcd5e4af200000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_PlatformCoral",
-			"PackageChunkId": "8811e38f9682369600000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_Skull",
+			"PackageChunkId": "dc6c9a3c06ff401e00000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_Pebble",
-			"PackageChunkId": "9f46d826ab35435300000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_PlatformCoral",
+			"PackageChunkId": "0c60bffb8f2bcf6900000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_MediumPocky",
-			"PackageChunkId": "46ca639d94d7d19800000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_Pebble",
+			"PackageChunkId": "13f7244bdc3ad17100000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_Lollipop",
-			"PackageChunkId": "c27b38969746efda00000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_MediumPocky",
+			"PackageChunkId": "20c1516a371f65d100000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_LargePocky",
-			"PackageChunkId": "3b36b5dca01a2b2f00000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_Lollipop",
+			"PackageChunkId": "a0123e43e39bd70e00000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_JellyStarfish",
-			"PackageChunkId": "29fcb596bc5907f300000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_LargePocky",
+			"PackageChunkId": "8c15c4d51f865b8700000001"
+		},
+		{
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_JellyStarfish",
+			"PackageChunkId": "e26a2e1eac92c62300000001"
 		},
 		{
 			"Name": "/Game/Materials/SurfaceMaterial/Eugene/M_Eugene_Helmet",
@@ -4868,12 +5075,24 @@
 			"PackageChunkId": "ce2774cc59f197a700000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_CoralClump2",
-			"PackageChunkId": "415d1a112a415f0d00000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_Shrimp",
+			"PackageChunkId": "88c651d2de365a4400000001"
 		},
 		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_CoralClump",
-			"PackageChunkId": "ae050e78013d3bfe00000001"
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_otter",
+			"PackageChunkId": "1b5945803b7bb35a00000001"
+		},
+		{
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_CrepeRay",
+			"PackageChunkId": "f0ba1df8e3218e0400000001"
+		},
+		{
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_CoralClump2",
+			"PackageChunkId": "7ce0d5e95a53933400000001"
+		},
+		{
+			"Name": "/Game/Materials/SurfaceMaterial/SceneObjects/M_CoralClump",
+			"PackageChunkId": "f936d63b204bc47600000001"
 		},
 		{
 			"Name": "/Game/Materials/SurfaceMaterial/M_BCandyCane",
@@ -4890,6 +5109,10 @@
 		{
 			"Name": "/Game/Blueprints/Widgets/ControlHUDs/WBP_CameraHUD",
 			"PackageChunkId": "b57c00e6e03305f700000001"
+		},
+		{
+			"Name": "/Game/Materials/SurfaceMaterial/M_Rock",
+			"PackageChunkId": "cd961b1069fdbc8200000001"
 		},
 		{
 			"Name": "/Game/Materials/Terrain/M_LS_Test",
@@ -4910,10 +5133,6 @@
 		{
 			"Name": "/Game/DataStructures/Struct_PhotoData",
 			"PackageChunkId": "eb8fe59e174b7a4a00000001"
-		},
-		{
-			"Name": "/Game/Blueprints/LevelManagement/BP_SpawnTitleScreen",
-			"PackageChunkId": "581b186bfc3d128400000001"
 		},
 		{
 			"Name": "/Game/LevelTools/BP_SkeletonPlacer",
@@ -5490,17 +5709,24 @@
 			]
 		},
 		{
+			"Name": "/Game/Assets/Models/Creatures/Dessimated_Unwrapped_Urchin",
+			"PackageChunkId": "129f0bf8bf0e2ebb00000001",
+			"BulkDataChunkIds": [
+				"129f0bf8bf0e2ebb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Models/Creatures/BatRay_to_Texture",
+			"PackageChunkId": "4133153a3368233500000001",
+			"BulkDataChunkIds": [
+				"4133153a3368233500000002"
+			]
+		},
+		{
 			"Name": "/Game/Assets/Models/untitled",
 			"PackageChunkId": "5227be9374fc088000000001",
 			"BulkDataChunkIds": [
 				"5227be9374fc088000000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Models/shromp_texture_pls",
-			"PackageChunkId": "9724ac55175fd89b00000001",
-			"BulkDataChunkIds": [
-				"9724ac55175fd89b00000002"
 			]
 		},
 		{
@@ -5539,38 +5765,10 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Models/Rock_Group_Rock_1_Low_Poly_Group44313",
-			"PackageChunkId": "cb7343981810882800000001",
-			"BulkDataChunkIds": [
-				"cb7343981810882800000002"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Models/Rock_Group",
 			"PackageChunkId": "1ef86f4975f8fcfc00000001",
 			"BulkDataChunkIds": [
 				"1ef86f4975f8fcfc00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Models/Rock_5",
-			"PackageChunkId": "84d1ba9f1760f1e800000001",
-			"BulkDataChunkIds": [
-				"84d1ba9f1760f1e800000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Models/Rock_4",
-			"PackageChunkId": "7ffa20696fab441c00000001",
-			"BulkDataChunkIds": [
-				"7ffa20696fab441c00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Models/Rock_3",
-			"PackageChunkId": "db0fe42e968c984400000001",
-			"BulkDataChunkIds": [
-				"db0fe42e968c984400000002"
 			]
 		},
 		{
@@ -5613,13 +5811,6 @@
 			"PackageChunkId": "6eab7b99cd13fcb000000001",
 			"BulkDataChunkIds": [
 				"6eab7b99cd13fcb000000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Models/BatRay_to_Texture",
-			"PackageChunkId": "49e7b405f8e73db800000001",
-			"BulkDataChunkIds": [
-				"49e7b405f8e73db800000002"
 			]
 		},
 		{
@@ -5746,6 +5937,14 @@
 			]
 		},
 		{
+			"Name": "/Game/Materials/SurfaceMaterial/M_Shrimp",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Materials/SurfaceMaterial/M_otter",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
 			"Name": "/Game/Assets/Models/Coral_Clump_2",
 			"PackageChunkId": "767aa46104cd6d3a00000001",
 			"BulkDataChunkIds": [
@@ -5767,12 +5966,40 @@
 			]
 		},
 		{
+			"Name": "/Game/Assets/Models/Rock_Group_Rock_1_Low_Poly_Group44313",
+			"PackageChunkId": "cb7343981810882800000001",
+			"BulkDataChunkIds": [
+				"cb7343981810882800000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Models/Rock_5",
+			"PackageChunkId": "84d1ba9f1760f1e800000001",
+			"BulkDataChunkIds": [
+				"84d1ba9f1760f1e800000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Models/Rock_4",
+			"PackageChunkId": "7ffa20696fab441c00000001",
+			"BulkDataChunkIds": [
+				"7ffa20696fab441c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Models/Rock_3",
+			"PackageChunkId": "db0fe42e968c984400000001",
+			"BulkDataChunkIds": [
+				"db0fe42e968c984400000002"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/Widgets/ControlHUDs/WBP_SwimmingHUD",
 			"PackageChunkId": "d70b8a1b095e414000000001"
 		},
 		{
-			"Name": "/Game/LV_TitleScreen",
-			"PackageChunkId": "d4a80f3f8c7c8b4e00000001"
+			"Name": "/Game/Blueprints/LevelManagement/WBP_Credits",
+			"PackageChunkId": "47558afe49dde1b000000001"
 		},
 		{
 			"Name": "/Game/LevelTools/BP_RadialPlacer",
@@ -5863,16 +6090,8 @@
 			"PackageChunkId": "5f2fcf9b223a07fa00000001"
 		},
 		{
-			"Name": "/Game/DataStructures/Fish_Data_V2",
-			"PackageChunkId": "26e3a1ae2b9a49f800000001"
-		},
-		{
-			"Name": "/Game/DataStructures/Fish_Data_Table_3",
-			"PackageChunkId": "804a819ecd41d5dd00000001"
-		},
-		{
-			"Name": "/Game/DataStructures/Fish_Data",
-			"PackageChunkId": "7e258608e41bba3a00000001"
+			"Name": "/Game/Assets/Models/BatRay_to_Texture",
+			"PackageChunkId": "000000000000000000000000"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
@@ -5899,8 +6118,34 @@
 			"PackageChunkId": "7e618acf0cafdca100000001"
 		},
 		{
+			"Name": "/Game/Assets/Models/Creatures/shromp_texture_pls",
+			"PackageChunkId": "e68decbbfb6ea16000000001",
+			"BulkDataChunkIds": [
+				"e68decbbfb6ea16000000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Models/Creatures/Otter_to_texture",
+			"PackageChunkId": "a5801275b2e9829f00000001",
+			"BulkDataChunkIds": [
+				"a5801275b2e9829f00000002"
+			]
+		},
+		{
+			"Name": "/Game/DataStructures/Fish_Data_V2",
+			"PackageChunkId": "26e3a1ae2b9a49f800000001"
+		},
+		{
+			"Name": "/Game/DataStructures/Fish_Data",
+			"PackageChunkId": "7e258608e41bba3a00000001"
+		},
+		{
 			"Name": "/Game/Blueprints/Widgets/WBP_Controls",
 			"PackageChunkId": "9bad8c254683d9c300000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LevelManagement/WBP_TitleScreen",
+			"PackageChunkId": "1221d47c078022b700000001"
 		},
 		{
 			"Name": "/Game/Assets/DevAssets/FT_Weeds2",
@@ -5972,16 +6217,20 @@
 			"PackageChunkId": "3b49fde6f1eeb3b100000001"
 		},
 		{
-			"Name": "/Game/Blueprints/GI_Custom_Game_Instance",
-			"PackageChunkId": "d4dc29af66f04dc000000001"
-		},
-		{
-			"Name": "/Game/Blueprints/BP_Fish_Parent",
-			"PackageChunkId": "2667d55119b379ab00000001"
-		},
-		{
 			"Name": "/Game/Blueprints/BP_EnvironmentHandler",
 			"PackageChunkId": "c43b0545b305b17d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Models/shromp_texture_pls",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/DataStructures/Fish_Data_Table_3",
+			"PackageChunkId": "804a819ecd41d5dd00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/LevelManagement/BP_SpawnTitleScreen",
+			"PackageChunkId": "581b186bfc3d128400000001"
 		},
 		{
 			"Name": "/Game/Materials/SurfaceMaterial/M_KelpShort",
@@ -6011,6 +6260,22 @@
 			"BulkDataChunkIds": [
 				"0e0d410fd499f3f700000002"
 			]
+		},
+		{
+			"Name": "/Game/Blueprints/GI_Custom_Game_Instance",
+			"PackageChunkId": "d4dc29af66f04dc000000001"
+		},
+		{
+			"Name": "/Game/Blueprints/BP_Fish_Parent",
+			"PackageChunkId": "2667d55119b379ab00000001"
+		},
+		{
+			"Name": "/Game/LV_TitleScreen",
+			"PackageChunkId": "d4a80f3f8c7c8b4e00000001"
+		},
+		{
+			"Name": "/Game/Materials/SurfaceMaterial/M_KelpInst2",
+			"PackageChunkId": "000000000000000000000000"
 		},
 		{
 			"Name": "/Game/DataStructures/Struct_PhotoHitData",
@@ -6055,10 +6320,6 @@
 		{
 			"Name": "/Game/Blueprints/Fish/BP_Fish_001",
 			"PackageChunkId": "571e934106295ff400000001"
-		},
-		{
-			"Name": "/Game/Materials/SurfaceMaterial/M_KelpInst2",
-			"PackageChunkId": "000000000000000000000000"
 		},
 		{
 			"Name": "/Game/Blueprints/Widgets/WBP_PhotoFocus",
@@ -6113,12 +6374,33 @@
 			"PackageChunkId": "b5c3fd8a75b4acbd00000001"
 		},
 		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-2_DL0",
+			"PackageChunkId": "d2911445a133965500000001",
+			"BulkDataChunkIds": [
+				"d2911445a133965500000002"
+			]
+		},
+		{
 			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X-1_Y-1_DL0",
 			"PackageChunkId": "61aa63582d979c5400000001"
 		},
 		{
 			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X-1_Y0_DL0",
 			"PackageChunkId": "c84b7b86a026dc6c00000001"
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0",
+			"PackageChunkId": "aa8a8a2b7fc89ec700000001",
+			"BulkDataChunkIds": [
+				"aa8a8a2b7fc89ec700000002"
+			]
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-2_DL0",
+			"PackageChunkId": "d0a727601ee5c88500000001",
+			"BulkDataChunkIds": [
+				"d0a727601ee5c88500000002"
+			]
 		},
 		{
 			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid",
@@ -6160,6 +6442,91 @@
 			"PackageChunkId": "51c6c530c6e9e7c500000001"
 		},
 		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0",
+			"PackageChunkId": "27843a3aeb5478ba00000001",
+			"BulkDataChunkIds": [
+				"27843a3aeb5478ba00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Stars",
+			"PackageChunkId": "56d51199b9b2142a00000001",
+			"BulkDataChunkIds": [
+				"56d51199b9b2142a00000002"
+			]
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0",
+			"PackageChunkId": "aca9a70dbf5ad82200000001",
+			"BulkDataChunkIds": [
+				"aca9a70dbf5ad82200000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
+			"PackageChunkId": "34b40296d0d3844e00000001"
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0",
+			"PackageChunkId": "ae8ac05c497b698100000001",
+			"BulkDataChunkIds": [
+				"ae8ac05c497b698100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Blue",
+			"PackageChunkId": "86737b633647e77300000001",
+			"BulkDataChunkIds": [
+				"86737b633647e77300000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
+			"PackageChunkId": "927b2fe4876a1f7400000001",
+			"BulkDataChunkIds": [
+				"927b2fe4876a1f7400000002"
+			]
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0",
+			"PackageChunkId": "24ce645b7adc5f8f00000001",
+			"BulkDataChunkIds": [
+				"24ce645b7adc5f8f00000002"
+			]
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y0_DL0",
+			"PackageChunkId": "c6b44f12a9445e9100000001",
+			"BulkDataChunkIds": [
+				"c6b44f12a9445e9100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
+			"PackageChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
+			"PackageChunkId": "eb26c788a1a10ea100000001",
+			"BulkDataChunkIds": [
+				"eb26c788a1a10ea100000002"
+			]
+		},
+		{
+			"Name": "/Game/LV_KelpForest",
+			"PackageChunkId": "cecf092af1e8d38700000001",
+			"BulkDataChunkIds": [
+				"cecf092af1e8d38700000002"
+			]
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0",
+			"PackageChunkId": "6e1d115cd6a9d52500000001",
+			"BulkDataChunkIds": [
+				"6e1d115cd6a9d52500000002"
+			]
+		},
+		{
 			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y0_DL0",
 			"PackageChunkId": "ce5b38294bc2ee8600000001",
 			"BulkDataChunkIds": [
@@ -6171,116 +6538,21 @@
 			"PackageChunkId": "cb90c94586b3228900000001"
 		},
 		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0",
-			"PackageChunkId": "c76f753001eb1e7300000001",
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0",
+			"PackageChunkId": "eba56bc8b513fa2700000001",
 			"BulkDataChunkIds": [
-				"c76f753001eb1e7300000002"
+				"eba56bc8b513fa2700000002"
 			]
 		},
 		{
-			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
-			"PackageChunkId": "927b2fe4876a1f7400000001",
-			"BulkDataChunkIds": [
-				"927b2fe4876a1f7400000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/T_Sky_Stars",
-			"PackageChunkId": "56d51199b9b2142a00000001",
-			"BulkDataChunkIds": [
-				"56d51199b9b2142a00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
-			"PackageChunkId": "34b40296d0d3844e00000001"
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y0_DL0",
-			"PackageChunkId": "aa8a8a2b7fc89ec700000001",
-			"BulkDataChunkIds": [
-				"aa8a8a2b7fc89ec700000002"
-			]
-		},
-		{
-			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
-			"PackageChunkId": "eb26c788a1a10ea100000001",
-			"BulkDataChunkIds": [
-				"eb26c788a1a10ea100000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/T_Sky_Blue",
-			"PackageChunkId": "86737b633647e77300000001",
-			"BulkDataChunkIds": [
-				"86737b633647e77300000002"
-			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y0_DL0",
-			"PackageChunkId": "24ce645b7adc5f8f00000001",
-			"BulkDataChunkIds": [
-				"24ce645b7adc5f8f00000002"
-			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L0_X0_Y0_DL0",
-			"PackageChunkId": "27843a3aeb5478ba00000001",
-			"BulkDataChunkIds": [
-				"27843a3aeb5478ba00000002"
-			]
+			"Name": "/Engine/EditorResources/AudioIcons/S_AudioComponent_AutoActivate",
+			"PackageChunkId": "dee7fa19f423dfad00000001"
 		},
 		{
 			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-1_DL0",
 			"PackageChunkId": "5e4c865e804f558d00000001",
 			"BulkDataChunkIds": [
 				"5e4c865e804f558d00000002"
-			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0",
-			"PackageChunkId": "d8e48ee8649f9e9700000001",
-			"BulkDataChunkIds": [
-				"d8e48ee8649f9e9700000002"
-			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y1_DL0",
-			"PackageChunkId": "ae8ac05c497b698100000001",
-			"BulkDataChunkIds": [
-				"ae8ac05c497b698100000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
-			"PackageChunkId": "b1dd9666d4d25cf600000001"
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0",
-			"PackageChunkId": "6da2730ceed2c61300000001",
-			"BulkDataChunkIds": [
-				"6da2730ceed2c61300000002"
-			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0",
-			"PackageChunkId": "5b95e513f336ffcb00000001",
-			"BulkDataChunkIds": [
-				"5b95e513f336ffcb00000002"
-			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-1_DL0",
-			"PackageChunkId": "6e1d115cd6a9d52500000001",
-			"BulkDataChunkIds": [
-				"6e1d115cd6a9d52500000002"
-			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y-1_DL0",
-			"PackageChunkId": "aca9a70dbf5ad82200000001",
-			"BulkDataChunkIds": [
-				"aca9a70dbf5ad82200000002"
 			]
 		},
 		{
@@ -6291,10 +6563,21 @@
 			]
 		},
 		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-2_Y-2_DL0",
-			"PackageChunkId": "d0a727601ee5c88500000001",
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y1_DL0",
+			"PackageChunkId": "c76f753001eb1e7300000001",
 			"BulkDataChunkIds": [
-				"d0a727601ee5c88500000002"
+				"c76f753001eb1e7300000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
+			"PackageChunkId": "6ed73496191bba2800000001"
+		},
+		{
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X1_Y0_DL0",
+			"PackageChunkId": "5b95e513f336ffcb00000001",
+			"BulkDataChunkIds": [
+				"5b95e513f336ffcb00000002"
 			]
 		},
 		{
@@ -6312,24 +6595,17 @@
 			]
 		},
 		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0",
-			"PackageChunkId": "a6eb5651df6026f400000001",
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y-1_DL0",
+			"PackageChunkId": "6da2730ceed2c61300000001",
 			"BulkDataChunkIds": [
-				"a6eb5651df6026f400000002"
+				"6da2730ceed2c61300000002"
 			]
 		},
 		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X0_Y-2_DL0",
-			"PackageChunkId": "d2911445a133965500000001",
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y-1_DL0",
+			"PackageChunkId": "d8e48ee8649f9e9700000001",
 			"BulkDataChunkIds": [
-				"d2911445a133965500000002"
-			]
-		},
-		{
-			"Name": "/Game/LV_KelpForest",
-			"PackageChunkId": "cecf092af1e8d38700000001",
-			"BulkDataChunkIds": [
-				"cecf092af1e8d38700000002"
+				"d8e48ee8649f9e9700000002"
 			]
 		},
 		{
@@ -6340,26 +6616,11 @@
 			]
 		},
 		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X-1_Y0_DL0",
-			"PackageChunkId": "eba56bc8b513fa2700000001",
+			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L1_X-1_Y1_DL0",
+			"PackageChunkId": "a6eb5651df6026f400000001",
 			"BulkDataChunkIds": [
-				"eba56bc8b513fa2700000002"
+				"a6eb5651df6026f400000002"
 			]
-		},
-		{
-			"Name": "/Game/JellyDiverTestingRoom/_Generated_/JellyDiverTestingRoom_MainGrid_L2_X0_Y0_DL0",
-			"PackageChunkId": "c6b44f12a9445e9100000001",
-			"BulkDataChunkIds": [
-				"c6b44f12a9445e9100000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
-			"PackageChunkId": "6ed73496191bba2800000001"
-		},
-		{
-			"Name": "/Engine/EditorResources/AudioIcons/S_AudioComponent_AutoActivate",
-			"PackageChunkId": "dee7fa19f423dfad00000001"
 		}
 	],
 	"OptionalPackages": []
